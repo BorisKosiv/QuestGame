@@ -18,7 +18,7 @@ target/
 *.metadata
 *.tmp
 *.mvn
-*.iml
+
 
 
 ### Eclipse ###
